@@ -1,6 +1,7 @@
 <template>
 	<div class="app-container">
 		<div id="container" style="width:100%; height:600px;resize:both;"></div>
+		<div></div>
 	</div>
 </template>
 
